@@ -1,5 +1,4 @@
 Hello Sushil !
 How are you.
-I am fine.
-20
-15
+I am fine. 
+2 is my favourite number.
