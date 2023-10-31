@@ -1,5 +1,1 @@
-Hello Pratap !
-How are You ?
-I am fine.
-10
-25
+Hello there, How are you ?
